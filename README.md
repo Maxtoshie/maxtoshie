@@ -30,9 +30,14 @@ Hi! I'm Maxwel, a student software engineer from Kenya, currently studying at th
 
 ---
 
-## Stats:
+## GitHub Stats:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maaxboon&theme=dark" alt="Maxwel's GitHub Stats" />
 </p>
 
 ---
+
+## Languages and Tools Usage:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maaxboon&layout=compact&theme=dark&langs_count=8" alt="Top Languages" />
+</p>
