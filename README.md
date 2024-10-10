@@ -2,7 +2,7 @@
 
 **👨‍💻 Student Software Engineer | Full-Stack Developer | Passionate About Creating Seamless Digital Experiences**
 
-Hello! I'm Maxwel, a student software engineer from Kenya, at the African Leadership University in Rwanda. I have a passion for full-stack development and enjoy creating efficient, user-centered web applications. With a sharp focus on both front-end and back-end technologies, I thrive on building robust systems and responsive interfaces that enhance user engagement. I'm always open to collaboration, so feel free to reach out if you'd like to work together on a project or have any questions!
+Hello! I'm Maxwel, a student software engineer from Kenya currently studying at the African Leadership University in Rwanda. I have a strong passion for full-stack development and enjoy crafting efficient, user-centered web applications. With a keen focus on both front-end and back-end technologies, I thrive on building robust systems and responsive interfaces that enhance user engagement. I'm always open to collaboration, so feel free to reach out if you'd like to work together on a project or have any questions!
 
 ---
 
@@ -32,7 +32,7 @@ Hello! I'm Maxwel, a student software engineer from Kenya, at the African Leader
 
 ---
 
-## 🌐 Connect with me:
+## 🌐 Connect with Me:
 <p align="center">
   <a href="https://www.linkedin.com/in/maxwelokoth/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> 
   <a href="https://instagram.com/max.omina" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E1306C?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a> 
