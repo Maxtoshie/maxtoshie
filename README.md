@@ -10,6 +10,7 @@
   <a href="https://www.linkedin.com/in/maxwelokoth/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> 
   <a href="https://instagram.com/max.omina" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E1306C?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a> 
   <a href="https://twitter.com/maxomina" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <img src="https://komarev.com/ghpvc/?username=maaxboon&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" style="vertical-align: middle;"/>
 </p>
 
 ## <small>Here are the tools, libraries, technologies, and frameworks I've worked with:</small>
@@ -29,12 +30,8 @@
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 Stats:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maaxboon&theme=dark" alt="Maxwel's GitHub Stats" style="display: inline-block;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maaxboon&layout=compact&theme=dark&langs_count=8" alt="Top Languages" style="display: inline-block;"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=maaxboon&label=Profile%20views&color=0e75b6&style=flat)" alt="Profile views" />
 </p>
