@@ -2,7 +2,7 @@
 
 **👨‍💻 Student Software Engineer | Full-Stack Developer | Creator of Seamless Digital Experiences**  
 
-Hi there! 👋 I'm **Maxwel Okoth**, a passionate student software engineer from **Kenya**, currently studying at the **African Leadership University (ALU)** in **Rwanda**. I specialize in **full-stack development**, where I love turning ideas into user-focused web applications that are both efficient and engaging.  
+Hi there! 👋 I'm a passionate student software engineer from **Kenya**, currently studying at the **African Leadership University (ALU)** in **Rwanda**. I specialize in **full-stack development**, where I love turning ideas into user-focused web applications that are both efficient and engaging.  
 
 I have a deep interest in leveraging **front-end** and **back-end technologies** to design responsive interfaces and scalable systems. Collaboration, learning, and growth drive my work, so feel free to reach out if you'd like to build something impactful together!  
 
