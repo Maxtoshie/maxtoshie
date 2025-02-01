@@ -1,5 +1,3 @@
-# Maxwel Okoth  
-
 **👨‍💻 Full-Stack Development | Cybersecurity | Cloud Computing | Blockchain Development | Machine Learning**  
 
 Hi there! 👋 I'm a passionate student software engineer from **Kenya**, currently studying at the **African Leadership University (ALU)** in **Rwanda**.  
