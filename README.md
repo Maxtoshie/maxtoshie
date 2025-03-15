@@ -30,9 +30,7 @@ I’m also exploring **Blockchain**, **Cloud Computing**, and **Cybersecurity**,
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="Blockchain" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS Cloud Computing" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/owasp/owasp-icon.svg" alt="Cybersecurity" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="Blockchain" width="40" height="40"/>
 </p>
 
 ---
