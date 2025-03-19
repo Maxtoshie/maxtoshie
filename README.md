@@ -33,7 +33,4 @@ I’m also exploring **Blockchain**, **Cloud Computing**, and **Cybersecurity**,
 ---
 
 ## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maaxboon&theme=dark" alt="GitHub Streak" style="margin: 10px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maaxboon&layout=compact&theme=dark&langs_count=8" alt="Top Languages" style="margin: 10px;"/>
-</p>
+![Maaxboon's Stats](https://github-readme-stats.vercel.app/api?username=Maaxboon&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
