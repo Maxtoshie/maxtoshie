@@ -8,7 +8,7 @@ I’m also exploring **Blockchain**, **Cloud Computing**, and **Cybersecurity**,
 
 ---
 
-## 🌐 Let's Connect:
+## 🌐 Connect with me:
 <p align="center">
   <a href="https://www.linkedin.com/in/maxwelokoth/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://instagram.com/max.omina" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E1306C?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
