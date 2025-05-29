@@ -1,6 +1,6 @@
 **👨‍💻 Full-Stack Development | Cybersecurity | Cloud Computing | Blockchain Development | Machine Learning**  
 
-Hi there! 👋 I'm a passionate student software engineer from **Kenya**, currently studying at the **African Leadership University (ALU)** in **Rwanda**.  
+Hi there! 👋 I'm an incipient student software engineer from **Kenya**, currently studying at the **African Leadership University (ALU)** in **Rwanda**.  
 
 I specialize in **full-stack development**, where I enjoy turning ideas into user-focused web applications that are both efficient and engaging. I have a deep interest in leveraging **front-end** and **back-end technologies** to design responsive interfaces and scalable systems.  
 
