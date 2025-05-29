@@ -32,5 +32,4 @@ I’m also exploring **Blockchain**, **Cloud Computing**, and **Cybersecurity**,
 
 ---
 
-## 📊 GitHub Stats:
-![Maaxboon's Stats](https://github-readme-stats.vercel.app/api?username=Maaxboon&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
+## 📊 GitHub Stats:[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Maaxboon)](https://git.io/streak-stats)
