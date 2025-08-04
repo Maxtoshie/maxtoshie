@@ -1,4 +1,4 @@
-**👨‍💻 Low-Level Engineering | Embedded Syatems | dApps | Blockchain Development **  
+## **Low-Level Engineering | Embedded Systems | dApps | Blockchain Development**
 
 I'm a Low-Level Engineer from Bumbogo, Kigali, currently studying Software Engineering at the African Leadership University (ALU) in Rwanda.
 
