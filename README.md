@@ -1,10 +1,8 @@
-**👨‍💻 Full-Stack Development | Cybersecurity | Cloud Computing | Blockchain Development | Machine Learning**  
+**👨‍💻 Low-Level Engineering | Embedded Syatems | dApps | Blockchain Development **  
 
-Hi there! 👋 I'm an incipient student software engineer from **Kenya**, currently studying at the **African Leadership University (ALU)** in **Rwanda**.  
+I'm a Low-Level Engineer from Bumbogo, Kigali, currently studying Software Engineering at the African Leadership University (ALU) in Rwanda.
 
-I specialize in **full-stack development**, where I enjoy turning ideas into user-focused web applications that are both efficient and engaging. I have a deep interest in leveraging **front-end** and **back-end technologies** to design responsive interfaces and scalable systems.  
-
-I’m also exploring **Blockchain**, **Cloud Computing**, and **Cybersecurity**, as I believe these fields are key to building secure and innovative digital ecosystems. Collaboration, learning, and growth drive my work, so feel free to reach out if you'd like to build something impactful together!  
+I'm learning to build at the intersection of embedded systems and decentralized finance, with a focus on Bitcoin open-source, decentralized applications, and systems design. I enjoy working across the stack to create secure, scalable solutions and currently split my time between Kigali and Nairobi. 
 
 ---
 
