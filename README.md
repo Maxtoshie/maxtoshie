@@ -7,7 +7,7 @@ I enjoy working across the stack to create secure, scalable solutions, and I cur
 
 ---
 
-## 🌐 Connect with Me
+## Socials
 <p align="center">
   <a href="https://www.linkedin.com/in/maxwelokoth/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -22,7 +22,7 @@ I enjoy working across the stack to create secure, scalable solutions, and I cur
 
 ---
 
-## 🛠️ Tools & Technologies
+## Stack
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
@@ -37,7 +37,7 @@ I enjoy working across the stack to create secure, scalable solutions, and I cur
 
 ---
 
-## 📊 GitHub Stats
+## Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Maaxboon&theme=radical&hide_border=true" width="200" alt="GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Maaxboon&show_icons=true&theme=radical&hide_border=true" width="200" alt="GitHub Stats"/>
