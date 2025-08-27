@@ -39,7 +39,7 @@ I enjoy working across the stack to create secure, scalable solutions, and I cur
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Maaxboon&theme=radical&hide_border=true" width="300" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Maaxboon&show_icons=true&theme=radical&hide_border=true" width="300" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maaxboon&layout=compact&theme=radical&hide_border=true" width="300" alt="Top Languages"/>
+  <img src="https://streak-stats.demolab.com?user=Maaxboon&theme=radical&hide_border=true" width="200" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Maaxboon&show_icons=true&theme=radical&hide_border=true" width="200" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maaxboon&layout=compact&theme=radical&hide_border=true" width="200" alt="Top Languages"/>
 </p>
