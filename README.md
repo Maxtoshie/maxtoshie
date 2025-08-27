@@ -1,24 +1,9 @@
 ## **Low-Level & Blockchain Engineering | Embedded Systems | dApps**
 
-I'm a Low-Level Engineer from **Bumbogo, Kigali**, currently studying **Software Engineering** at the African Leadership University (ALU) in Rwanda.  
+I'm a Low-Level Engineer from Bumbogo, Kigali, currently studying software engineering at the African Leadership University (ALU) in Rwanda.  
 
-I’m learning to build at the intersection of **embedded systems** and **decentralized finance**, with a focus on **Bitcoin open-source**, **dApps**, and **systems design**.  
+I’m learning to build **embedded systems** and **decentralized finance**, with a focus on contributing to **Bitcoin open-source**, **dApps**, and **embedded systems design**.  
 I enjoy working across the stack to create secure, scalable solutions, and I currently split my time between **Kigali** and **Nairobi**.  
-
----
-
-## Socials
-<p align="center">
-  <a href="https://www.linkedin.com/in/maxwelokoth/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/maxomina" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E1306C?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://twitter.com/maxomina" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-</p>
 
 ---
 
@@ -39,7 +24,7 @@ I enjoy working across the stack to create secure, scalable solutions, and I cur
 
 ## Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Maaxboon&theme=radical&hide_border=true" width="200" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Maaxboon&show_icons=true&theme=radical&hide_border=true" width="200" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maaxboon&layout=compact&theme=radical&hide_border=true" width="200" alt="Top Languages"/>
+  <img src="https://streak-stats.demolab.com?user=Maaxboon&theme=radical&hide_border=true" width="250" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Maaxboon&show_icons=true&theme=radical&hide_border=true" width="250" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maaxboon&layout=compact&theme=radical&hide_border=true" width="250" alt="Top Languages"/>
 </p>
