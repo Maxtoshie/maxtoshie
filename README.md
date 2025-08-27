@@ -1,6 +1,6 @@
 ## **Low-Level & Blockchain Engineering | Embedded Systems | dApps**
 
-I'm a Student Software Engineer at the African Leadership University (ALU) in Rwanda.  Getting my hands dirty through low-level programming in C while building embedded systems and dApps, while learning how to contribute to Bitcoin's open source. You'll find me splitting my time between **Kigali** and **Nairobi**.  
+Student Software Engineer at ALU in Rwanda, diving into low-level programming in C to build embedded systems and dApps, while learning to contribute to Bitcoin open source. Splitting my time between Kigali and Nairobi.  
 
 ---
 
