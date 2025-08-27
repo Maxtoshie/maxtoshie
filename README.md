@@ -1,9 +1,6 @@
 ## **Low-Level & Blockchain Engineering | Embedded Systems | dApps**
 
-I'm a Low-Level Engineer from Bumbogo, Kigali, currently studying software engineering at the African Leadership University (ALU) in Rwanda.  
-
-I’m learning to build **embedded systems** and **decentralized finance**, with a focus on contributing to **Bitcoin open-source**, **dApps**, and **embedded systems design**.  
-I enjoy working across the stack to create secure, scalable solutions, and I currently split my time between **Kigali** and **Nairobi**.  
+I'm a Student Software Engineer at the African Leadership University (ALU) in Rwanda.  Getting my hands dirty through low-level programming in C while building embedded systems and dApps, while learning how to contribute to Bitcoin's open source. You'll find me splitting my time between **Kigali** and **Nairobi**.  
 
 ---
 
