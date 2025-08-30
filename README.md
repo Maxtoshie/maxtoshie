@@ -28,3 +28,4 @@ Student Software Engineer at ALU in Rwanda, diving into low-level programming in
   <img src="https://github-readme-stats.vercel.app/api?username=Maaxboon&show_icons=true&theme=radical&hide_border=true" width="350" alt="Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maaxboon&layout=compact&theme=radical&hide_border=true" width="350" alt="Languages"/>
 </p>
+<img src="https://streak-stats.demolab.com?user=Maxtoshie&theme=dark&hide_border=true" alt="Maxtoshie's GitHub Stats" />
