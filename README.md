@@ -1,4 +1,4 @@
-## **Low-Level & Blockchain Engineering | Embedded Systems | dApps**
+# Low-Level & Blockchain Engineering | Embedded Systems | dApps
 
 Student Software Engineer at ALU in Rwanda, diving into low-level programming in C to build embedded systems and dApps, while learning to contribute to Bitcoin open source. Splitting my time between Kigali and Nairobi.  
 
@@ -6,6 +6,9 @@ Student Software Engineer at ALU in Rwanda, diving into low-level programming in
 
 ## Stack
 <p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/> 
+  <img src="https://cryptologos.cc/logos/bitcoin-btc-logo.svg?v=025" alt="Bitcoin" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
