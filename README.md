@@ -4,7 +4,7 @@ Student Software Engineer at ALU in Rwanda, diving into low-level programming in
 
 ---
 
-## Stack
+## 🚀 Stack
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/> 
@@ -22,10 +22,9 @@ Student Software Engineer at ALU in Rwanda, diving into low-level programming in
 
 ---
 
-## Stats
+## 📊 Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Maaxboon&theme=radical&hide_border=true" width="350" alt="Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Maaxboon&show_icons=true&theme=radical&hide_border=true" width="350" alt="Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maaxboon&layout=compact&theme=radical&hide_border=true" width="350" alt="Languages"/>
+  <img src="https://streak-stats.demolab.com?user=Maxtoshie&theme=radical&hide_border=true" width="350" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Maxtoshie&show_icons=true&theme=radical&hide_border=true" width="350" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxtoshie&layout=compact&theme=radical&hide_border=true" width="350" alt="Top Languages"/>
 </p>
-<img src="https://streak-stats.demolab.com?user=Maxtoshie&theme=dark&hide_border=true" alt="Maxtoshie's GitHub Stats" />
